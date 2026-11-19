@@ -1,0 +1,6 @@
+# Input data (kept locally, not versioned)
+data/*
+!data/.gitkeep
+
+# Intermediate R objects
+*.rds
